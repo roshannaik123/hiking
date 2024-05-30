@@ -1,0 +1,58 @@
+/* Banner.css */
+.banner-container {
+    position: relative;
+    width: 100%; /* Adjust as needed */
+    height: auto; /* Adjust as needed */
+  }
+  
+  .banner-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .shape-image {
+    position: absolute;
+    top: 0; /* Adjust as needed */
+    left: 50%; /* Adjust as needed */
+    transform: translateX(-50%); /* Center horizontally */
+    width: 100%; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  .banner-text {
+    position: absolute;
+    top: 30%; /* Adjust as needed */
+    left: 50%;
+
+    transform: translateX(-50%);
+    color: white; /* Adjust as needed for readability */
+    font-weight: bolder; /* Adjust as needed */
+    text-align: center;
+    width: 20%; /* Adjust width as needed */
+    font-style: italic;
+    line-height:2;
+    /* Adjust font as needed */
+  }
+  .banner-btn{
+    position: absolute;
+    top: 80%; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    color: white; /* Adjust as needed for readability */
+    font-weight: bolder; /* Adjust as needed */
+    text-align: center;
+    font-style: italic;
+    background-color: transparent;
+    border:1px solid rgb(215, 246, 248);
+    padding:10px 50px;
+   
+  }
+  .bg{
+    text-align:left;
+    margin-top:-20px;
+    width:60%;
+  }
+  .bp {
+    text-align: 10px;
+    margin-left: -460px;
+    margin-top: 165px;
+}

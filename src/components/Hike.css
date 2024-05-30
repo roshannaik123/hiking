@@ -1,0 +1,67 @@
+.Hike{
+    margin-top:70%;
+}
+
+.Hike h1{
+    text-align: left;
+    margin-left:150px;
+    margin-top:-30px;
+    ;
+}
+.Hike-div{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-flex{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:8px;
+}
+.imgesss{
+    width:150px;
+    margin-bottom: 30px;;
+    height:150px;
+    margin-left:200px;
+    border-radius: 50%;
+    
+
+}
+
+.loreum{
+    text-align: left;
+    margin-left:100px;;
+}
+.black-img{
+    border-radius: 50%;
+    width:350px;
+    height:350px;
+    margin-right:250px;
+}
+.black-ps{
+    margin-top:50px
+}
+.Hike hr{
+    width:5%;
+    margin-left:154px;
+    background-color:rgb(3, 104, 104);
+    height:2px;
+}
+.black-p{
+    text-align: left;
+    font-size: medium;
+    font-weight: 800;
+    font-style: italic;
+    color:rgb(3, 104, 104);
+    letter-spacing: 1;
+    margin-left:100px;
+
+}
+.hike-div2{
+    margin-left:-80px;
+}
+.Hike {
+    margin-top: 80%;
+}
